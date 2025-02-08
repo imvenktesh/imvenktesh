@@ -10,7 +10,6 @@
 - 🤔 Seeking: Opportunities and guidance for placements in innovative startups
 - 💬 Ask Me About: Anything tech-related – I'm always up for a chat!
 - 😄 Pronouns: Innovator/Techie
-- ⚡ Fun Fact: I once built a robot that can solve a Rubik's Cube!
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/venkatesh-s-78554a29a/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_vk_venkat_/)
 
